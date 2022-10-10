@@ -5,3 +5,4 @@ This is Padmaja
 =======
 hellooo
 >>>>>>> css-assignments
+js assignment
